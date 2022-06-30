@@ -1,0 +1,8 @@
+node_modules/
+build/
+
+# Docker
+data/
+
+*.log
+.env
