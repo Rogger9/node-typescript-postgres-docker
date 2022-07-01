@@ -3,7 +3,7 @@
     "es2021": true,
     "node": true
   },
-  "extends": ["standard"],
+  "extends": ["standard", "eslint-config-prettier"],
   "parser": "@typescript-eslint/parser",
   "parserOptions": {
     "ecmaVersion": 2015,
